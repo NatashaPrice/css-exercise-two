@@ -44,10 +44,12 @@ li {
   padding: 30px;
 }
 
+a { text-decoration:none; }
+
 a:link { color:#f29e30; } /* unvisited */
 a:visited { color:#ea7f22; } /* visited */
 a:hover { color:#eac923; } /* mouse over */
-a:active { color:##ea7f22; } /* selected */
+a:active { color:#ea7f22; } /* selected */
 
 article {
   padding-top: 100px;
